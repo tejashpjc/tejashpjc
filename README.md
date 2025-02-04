@@ -4,6 +4,15 @@
   <img height="150"  width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2E3amo1emYxNmdkaTByenQ4eTkzZzRxZjJjd2IydDZwbzBkeGV5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 </div>
 
+
+
+
+###
+
+<br clear="both">
+
+<h1 align="center">👋 Hey There 👋<br>🌟🎉 Welcome To My GitHub 🌟🎉<br>🖋 Full Stack Developer🖋</h1>
+
 ###
 
 <br clear="both">
@@ -16,25 +25,11 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=tejashpjc.tejashpjc&left_color=cornflowerblue&right_color=aqua&left_text=Coding%20Enthusiasts%20"  />
-</div>
-
-###
-
-<br clear="both">
-
-<h1 align="center">👋 Hey There 👋<br>🌟🎉 Welcome To My GitHub 🌟🎉<br>🖋 Full Stack Developer🖋</h1>
-
-###
-
 <h3 align="left">👩‍💻  About Me 👩‍💻</h3>
 
 ###
 
-<p align="left">I am Tejash Patel, and I am a US Citizen.<br>- I am Currently in the Job Market<br>- 🔭 I’m working as a Freelance Developer<br>- 📚 I'm currently learning Python<br>- ⚡ In my free time I code things that would impact the world in my eye.</p>
+<p align="left">I am Tejash Patel, and I am a US Citizen.<br>- I am Currently in the Job Market<br>- 🔭 I’m working as a Freelance Developer<br>- 📚 I'm currently learning Python<br>- ⚡ In my free time I code things that would impact the world in my eyes.</p>
 
 ###
 
