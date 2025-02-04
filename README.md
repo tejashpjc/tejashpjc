@@ -11,7 +11,7 @@
 
 <br clear="both">
 
-<h1 align="center">👋 Hey There 👋<br>🌟🎉 Welcome To My GitHub 🌟🎉<br>🖋 Full Stack Developer🖋</h1>
+<h1 align="center">👋 Hello There 👋<br>🌟🎉 Welcome To My GitHub 🌟🎉<br>🖋 Full Stack Developer🖋</h1>
 
 ###
 
