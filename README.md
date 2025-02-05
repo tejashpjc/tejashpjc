@@ -12,16 +12,12 @@
 <br clear="both">
 
 <h1 align="center">👋 Hello There 👋<br>🌟🎉 Welcome To My GitHub 🌟🎉<br>🖋 Full Stack Developer🖋</h1>
+<h2> Phone Number: +1 201-952-7631 <br></h2>
+<h2> Email: tejashpjc@gmail.com <br></h2>
 
 ###
 
 <br clear="both">
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=plastic" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="25" alt="gmail logo"  />
-</div>
 
 ###
 
@@ -30,7 +26,8 @@
 ###
 
 <p align="center"><h2><b><i> I am Tejash Patel, and I am a US Citizen.</i></b></h2><br></p>
-<p align="left"><h3> - I am Currently in the Job Market<br>- 🔭 I’m working as a Freelance Developer<br>- 📚 I'm currently learning Python and Swift for iOS <br>- ⚡ In my free time I code things that would impact the world in my eyes.</p>
+<p align="left"><h3> - I am Currently in the Job Market<br>- 🔭 I’m working as a Freelance Developer<br>- 📚 I'm currently learning Python and Swift for iOS <br>- ⚡ In my free time I code things that would impact the world in my eyes.</p><br>
+<p allign="center"><h2> 📧📞 Please feel free to email me or call me if there are any oppurtunities 📧📞<br></h2></p
 
 ###
 
