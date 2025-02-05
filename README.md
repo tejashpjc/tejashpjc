@@ -25,11 +25,12 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me 👩‍💻</h3>
+<h3 align="left">👩‍💻  About Me 👩‍💻</h3> <br>
 
 ###
 
-<p align="left">I am Tejash Patel, and I am a US Citizen.<br>- I am Currently in the Job Market<br>- 🔭 I’m working as a Freelance Developer<br>- 📚 I'm currently learning Python<br>- ⚡ In my free time I code things that would impact the world in my eyes.</p>
+<p align="center"><h2><b><i> I am Tejash Patel, and I am a US Citizen.</i></b></h2><br></p>
+<p align="left"><h3> - I am Currently in the Job Market<br>- 🔭 I’m working as a Freelance Developer<br>- 📚 I'm currently learning Python and Swift for iOS <br>- ⚡ In my free time I code things that would impact the world in my eyes.</p>
 
 ###
 
